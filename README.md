@@ -93,6 +93,9 @@ The F1 score for the decision tree that was not hyperparameter tuned is 0.940940
 
 
 
+**Thank you for ready !!!**
+
+To read also on the Random Forest Model, [click here](https://github.com/OTQUEEN/Using-A-Random-Forest-Model--Evaluate-and-Determining-Predictive-Variables-In-Customer-Satisfaction/blob/main/README.md)
 
 
 
